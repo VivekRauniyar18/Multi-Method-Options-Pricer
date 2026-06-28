@@ -45,7 +45,8 @@ Option Greeks
 # Sample Output
 
 
-<img width="1512" height="982" alt="Screenshot 2026-06-27 at 8 25 15 PM" src="https://github.com/user-attachments/assets/febe7b56-34e0-4cd9-bf59-270665eda6cb" /> 
+<img width="1173" height="532" alt="Screenshot 2026-06-27 at 8 25 17 PM" src="https://github.com/user-attachments/assets/272c7690-2d45-4400-9115-75d4ecd66746" />
+
 
 
 
